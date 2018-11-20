@@ -1,9 +1,5 @@
 // file:        interpretertest.cpp
-// author:      Geoff T
-// date:        2017-10-17
-// description: A few general tests for CPSC 221 PA2 Interpreter class
-//              You should add your own test cases!
-
+// description: A few general tests for the Kabab stand
 #include <cstdlib>
 #include <iostream>
 
